@@ -220,8 +220,3 @@ import 'package:ict_all/utils/udp.dart';
       }
     });
 ```
-
-
-
-## 维护
-该项目由胡工维护，在使用过程中如果有bug请联系胡工解决。联系邮箱 [hushaojie@9bxkj.com](mailto:hushaojie@9bxkj.com) 。
